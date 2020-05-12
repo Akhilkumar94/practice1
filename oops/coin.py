@@ -24,3 +24,6 @@ print("spin the coin:")
 for count in range(10):
     mycoin.toss()
     print("up_side of coin is:",mycoin.get_toss())
+
+print("this is for testing in git hub...no neeed to panic")
+
